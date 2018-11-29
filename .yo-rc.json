@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.jhipster.app",
+    "packageFolder": "com/jhipster/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTI2ZDE4ZTkyODg5YWNiYWEyOTU3ZDIzMmZiNmI4NmE5NzM4N2ZjZGVlYjY0NTk4YmQyOGM0Y2YzNmIxNTMyZGM4YjE4MmQ3MzIxMmEwYTM0NTJhNjY2ZTFlZTY3M2M0YjE2OWI2YzExMTc5ZTFlNjk4NWE2ZTU5MDEyMTA2Y2M=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "et"
+    ]
+  }
+}
